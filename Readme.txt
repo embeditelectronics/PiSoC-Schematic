@@ -1,11 +1,9 @@
-RPiSoC Schematic
+PiSoC Schematic
 ----------------
 
-Includes schematic, board layout, and gerbers for the RPiSoC.
+Includes Eagle schematic and board layout for the PiSoC.
 
-They were made in Eagle 6.6
-
-Copyright (c) 2014, Embedit Electronics
+Copyright (c) 2015, Embedit Electronics
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License. You can view a copy of it here: http://creativecommons.org/licenses/by-sa/3.0/us/
 
